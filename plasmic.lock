@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "projectId": "eNQiRE8SfDaBBkgMfoMhTx",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "eMGUlmB4dT1AO",
+          "checksum": "1e76811fd931b8a302d38e89906cf38c"
+        },
+        {
+          "assetId": "eNQiRE8SfDaBBkgMfoMhTx",
+          "type": "projectCss",
+          "checksum": "082c2b5ce26fdfe41e39ac8e18bce48a"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "eMrBKRI-KXtB",
+          "checksum": "036362f74df72691d9485fd58d798ba3"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "eMrBKRI-KXtB",
+          "checksum": "036362f74df72691d9485fd58d798ba3"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Pp-b07qe4nJ",
+          "checksum": "60a6baae93de3a500cd64d07a0adcf5d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Pp-b07qe4nJ",
+          "checksum": "60a6baae93de3a500cd64d07a0adcf5d"
+        },
+        {
+          "type": "icon",
+          "assetId": "z3ww7lAGz4",
+          "checksum": "2e434419bd20c5371a5dde724c244d88"
+        },
+        {
+          "type": "icon",
+          "assetId": "Lq6_k1S2uw",
+          "checksum": "1154015ab2dac7bf7a993d4463dc362a"
+        },
+        {
+          "type": "icon",
+          "assetId": "JN4s4pXtKT",
+          "checksum": "d29847320f082315c82a5c4f28c28cd7"
+        },
+        {
+          "type": "image",
+          "assetId": "0CbSPWMwQ",
+          "checksum": "af8e02629a4eb7d54f30ebdae225b93d"
+        },
+        {
+          "type": "image",
+          "assetId": "khDoM_7uL9",
+          "checksum": "3405a3c8cafbf8cfe6869a8078c8d324"
+        },
+        {
+          "type": "image",
+          "assetId": "3txauVsgeL",
+          "checksum": "8f61641f88b36edbdacd716a25705bd4"
+        },
+        {
+          "type": "image",
+          "assetId": "vAZhJFPjPz",
+          "checksum": "e1fc89b3cbb97f39fd48e5322c6a7335"
+        },
+        {
+          "type": "image",
+          "assetId": "pAVrpPh81q",
+          "checksum": "528d88721e26f02f40e19a8f603ca117"
+        },
+        {
+          "type": "image",
+          "assetId": "cwDbBNuzwm",
+          "checksum": "cbeccd9b012b140cacfd6bcbfdf83976"
+        },
+        {
+          "type": "image",
+          "assetId": "n2_1t7jnQP",
+          "checksum": "ac25d355e0e30897e603709acecf8efa"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.287"
+}
